@@ -1,5 +1,4 @@
-# NeoG Camp Level 0 - Flag Interpreter
-
+# NeoG Camp Level 0 - Popular books
 The task was to built an app which when clicked on button of genre, shows the list of popular books in that genre
 
 ## Built With
